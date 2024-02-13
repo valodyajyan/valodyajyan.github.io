@@ -76,6 +76,16 @@ body {
     left: 45px;
     color: #003049;
 }
+.author {
+    position: absolute;
+    font-family: "Foo", cursive;
+    font-size: 16px;
+    text-align: center;
+    line-height: 23px;
+    top: 23px;
+    left: 70px;
+    color: #003049;
+}
 
 .heart {
     background-color: #d62828;
