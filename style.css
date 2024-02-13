@@ -77,13 +77,13 @@ body {
     color: #003049;
 }
 .author {
-    position: absolute;
-    font-family: "Snell Roundhand", cursive;
-    font-size: 28px;
+   position: absolute;
+    font-family: "Foo", cursive;
+    font-size: 16px;
     text-align: center;
-    line-height: 25px;
-    top: 25px;
-    left: 55px;
+    line-height: 23px;
+    top: 23px;
+    left: 70px;
     color: #003049;
 }
 
