@@ -78,12 +78,12 @@ body {
 }
 .author {
     position: absolute;
-    font-family: "Foo", cursive;
-    font-size: 16px;
+    font-family: "Snell Roundhand", cursive;
+    font-size: 28px;
     text-align: center;
-    line-height: 23px;
-    top: 23px;
-    left: 70px;
+    line-height: 25px;
+    top: 25px;
+    left: 45px;
     color: #003049;
 }
 
