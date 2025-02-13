@@ -26,13 +26,7 @@ body {
         transform: translateY(-30px);
     }
 }
-.gift-message {
-    text-align: center;
-    font-size: 14px;
-    color: #ff4d6d;
-    font-style: italic;
-    margin-top: 10px;
-}
+
 
 .envelope {
     position: relative;
