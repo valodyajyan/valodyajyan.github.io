@@ -193,6 +193,13 @@ body {
     left: 70px;
     animation: heart 2.3s ease-out infinite;
 }
+.gift-message {
+    text-align: center;
+    font-size: 14px;
+    color: #ff4d6d;
+    font-style: italic;
+    margin-top: 10px;
+}
 
 .five {
     left: 90px;
